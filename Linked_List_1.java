@@ -33,6 +33,7 @@ public class Linked_List_1{
             return;
         }
         tail.next=newNode;
+        
         tail=newNode;
     }
 
