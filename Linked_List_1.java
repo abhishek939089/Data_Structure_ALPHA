@@ -36,7 +36,7 @@ public class Linked_List_1{
         tail=newNode;
     }
 
-    // public void add(int idx,int data){
+   // public void add(int idx,int data){
     //     if(idx == 0){
     //         addFirst(data);
     //         return;
