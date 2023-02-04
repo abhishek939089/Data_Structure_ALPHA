@@ -1,5 +1,4 @@
 import java.util.LinkedList;
-
 public class Stack_Using_LinkedList {
     static class Node{
         int data;
