@@ -10,8 +10,7 @@ public class Linked_List_1{
     }
     public static Node head;
     public static Node tail;
-
-   public void addFirst(int data){
+    public void addFirst(int data){
         // Step->1 create new node
         Node newNode = new Node(data);
         if(head==null){
